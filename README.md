@@ -36,7 +36,7 @@
 39
 So, this tool generates a txt file for every image. The format of storing the annotation data in the
 txt file is as follows:</p>
-```text
+```
 
 [class_id] [x] [y] [width] [height]
 Where:
