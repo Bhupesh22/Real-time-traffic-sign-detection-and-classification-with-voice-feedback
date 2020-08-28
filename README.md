@@ -15,6 +15,29 @@
 <hr>
 <br><br>
 <h2> Installation </h2>
+
+Initially set up darknet by AlexyAb ( darknetSetup.ipynb )
+
+Calculate anchor boxe values ( ancharCalculations.ipynb )
+
+Model Training ( modelTraining.ipynb )
+
+Weights Changing & Testing (Optional if you require Keras Implemenation)
+
+After training we get .weights file so this weights can be used on our local machine program 
+
+```
+
+pip install opencv-python
+pip install imutils
+pip install subprocess
+pip install pydub
+pip install gTTS
+
+```
+
+for implementing real time audio we use ffmpeg <a href ="https://ffmpeg.org/"> ffmpeg </a> software.
+
 <hr>
 <br><br>
 <h2> Dataset </h2>
