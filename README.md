@@ -55,6 +55,10 @@ for implementing real time audio we use ffmpeg <a href ="https://ffmpeg.org/"> f
 <br><br>
 <h2> Working </h2>
 
+
+<h3> Flow of our system </h3>
+<img src = "Images/Flow.png">
+
 <h3> 1. Bounding box mechanism </h3>
 <p>To accomplish this we used a tool OpenLabelling written in Python to draw bounding box for each traffic sign. YOLOv2 requires annotation text in XML file format while YOLOv3 requires the same in TXT file format. So, this tool generates a txt file for every image. The format of storing the annotation data in the
 txt file is as follows:</p>
