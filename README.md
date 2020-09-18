@@ -1,5 +1,11 @@
 # Real-time-traffic-sign-detection-and-classification-with-voice-feedback
 
+<br> 
+<h2> Output Video </h2>
+
+[![Output Video](https://img.youtube.com/vi/A20vlHzG-ek/0.jpg)](https://www.youtube.com/watch?v=A20vlHzG-ek&feature=youtu.be "Output Video")
+
+<br>
 <p>With the increase in number of road accidents happening every year, there has been a need to develop a system that contributes to the safety of the drivers, pedestrians and vehicles. Traffic sign detection and recognition plays an integral role for driver assistant system as well as autonomous driving vehicles.</p>
 <p>In this project, an approach to assist the driver through traffic sign recognition with much more faster detection in conjunction with human-like general voice feedback has been presented.</p>
 <hr>
